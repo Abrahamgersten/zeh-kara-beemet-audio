@@ -1,0 +1,15 @@
+{
+ "count": 2614,
+ "released": 1,
+ "total": 10,
+ "next_at": 2700,
+ "chapters": [
+  {
+   "slug": "wondrous-map-ch01",
+   "title": "פרק 1: המלך שהיה לו הכול (חוץ מדבר אחד)",
+   "description": "למלך טוב הלב יש ארמון, גנים ואוצרות, ורק דבר אחד חסר לו. הרופאים שמגיעים לעזור מביאים איתם עצות מוזרות מאוד, ושום דבר לא עובד.",
+   "image": "assets/images/wondrous-map-ch01.jpeg",
+   "audio": "assets/audio/wondrous-map-ch01-sfx4.mp3"
+  }
+ ]
+}
