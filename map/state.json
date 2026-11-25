@@ -1,6 +1,6 @@
 {
  "count": 2770,
- "released": 2,
+ "released": 1,
  "total": 10,
  "goal": 3500,
  "next_at": 2800,
@@ -11,13 +11,6 @@
    "description": "למלך טוב הלב יש ארמון, גנים ואוצרות, ורק דבר אחד חסר לו. הרופאים שמגיעים לעזור מביאים איתם עצות מוזרות מאוד, ושום דבר לא עובד.",
    "image": "assets/images/wondrous-map-ch01.jpeg",
    "audio": "assets/audio/wondrous-map-ch01-sfx4.mp3"
-  },
-  {
-   "slug": "wondrous-map-ch02",
-   "title": "פרק 2: האורח שלא היה אמור להיכנס",
-   "description": "עני עייף ורעב עומד בשער הארמון, והשומרים רוצים לגרש אותו. המלך מחליט אחרת, והאורח נפרד ממנו בברכה שהמלך עוד לא יודע כמה היא שווה.",
-   "image": "assets/images/wondrous-map-ch02.jpeg",
-   "audio": "assets/audio/wondrous-map-ch02-sfx5.mp3"
   }
  ]
 }
